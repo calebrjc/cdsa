@@ -1,0 +1,7 @@
+[wrap-git]
+directory = criterion
+url = https://github.com/Snaipe/Criterion.git
+revision = v2.4.2
+
+[provide]
+criterion = criterion

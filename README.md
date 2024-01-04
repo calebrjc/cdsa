@@ -1,2 +1,2 @@
-# cdsa
-Common data structures and algorithms implemented in C.
+# pyramid
+Common data structures and algorithms. For C, in C.
